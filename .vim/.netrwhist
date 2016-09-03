@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/davis/medicom-code/medicom/client/js'
+let g:netrw_dirhist_2='/home/davis/Desktop/fonoapi-nodejs'
+let g:netrw_dirhist_3='/home/davis/bio_graph'
+let g:netrw_dirhist_4='/home/davis'
+let g:netrw_dirhist_5='/usr/share/doc/gprolog'
+let g:netrw_dirhist_6='/media/davis/202638e1-4ce4-45df-9a00-ad725c2537bb/etc/rc0.d'
+let g:netrw_dirhist_7='/home/davis/projects/haskell'
